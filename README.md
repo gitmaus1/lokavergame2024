@@ -4,7 +4,7 @@ Game Design
 ________________________________________
 <h3>Summary</h3>
 
-	Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
+	leikur þar sem 
  
 <h3>Gameplay</h3>
 
