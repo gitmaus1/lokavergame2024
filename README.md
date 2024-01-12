@@ -1,6 +1,6 @@
 # lokavergame2024
 
-Game Design
+<h1>Game Design</h1>
 ________________________________________
 <h3>Summary</h3>
 
@@ -15,8 +15,10 @@ ________________________________________
         the game shuld ivoke a sense of adventure and make the player feel powerful
 
 
-Technical
+
 ________________________________________
+
+<h1>Technical</h1>
 
 Screens
 
