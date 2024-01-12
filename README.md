@@ -2,8 +2,10 @@
 
 Game Design
 ________________________________________
-Summary
+<h3>Summary</h3>
+
 	Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
+ 
 Gameplay
 	What should the gameplay be like? What is the goal of the game, and what kind of obstacles are in the way? What tactics should the player use to overcome them?
 Mindset
