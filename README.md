@@ -15,7 +15,9 @@ ________________________________________
         the game shuld ivoke a sense of adventure and make the player feel powerful
 
 
-Technical________________________________________
+Technical
+________________________________________
+
 Screens
 
 1.	Title Screen
