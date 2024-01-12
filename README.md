@@ -8,12 +8,32 @@ ________________________________________
  
 <h3>Gameplay</h3>
 
-	What should the gameplay be like? What is the goal of the game, and what kind of obstacles are in the way? What tactics should the player use to overcome them?
- 
         explore an ilend using the movement mekenicks and figt enamys 
  
 <h3>Mindset</h3>
 
-	What kind of mindset do you want to provoke in the player? Do you want them to feel powerful, or weak? Adventurous, or nervous? Hurried, or calm? How do you intend to 		provoke those emotions?
- 
         the game shuld ivoke a sense of adventure and make the player feel powerful
+
+
+Technical________________________________________
+Screens
+
+1.	Title Screen
+2.	loud save
+3.	End Credits
+
+Controls 
+
+  	the game will be based arund cuntroler and will you will use long range spells and short range attacks
+        as you use spells your magic debleits til you cant use magic any more you refule magic whith sugsesful
+	malai attacks incuriging you to use long and close range attacks
+	
+
+Mechanics
+
+	Are there any interesting mechanics? If so, how are you going to accomplish them? Physics, algorithms, etc.
+ 
+ 	you can use many abilitys whithute going into a menju to switce petven them 
+
+
+ 
