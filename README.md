@@ -28,7 +28,7 @@ Screens
 
 Controls 
 
-  	the game will be based arund cuntroler and will you will use long range spells 
+  	the game will be based arund cuntroler and will  use long range spells 
    	and short range attacks as you use spells your magic debleits til you cant
         use magic any more you refule magic whith sugsesful
 	malai attacks incuriging you to use long and close range attacks
