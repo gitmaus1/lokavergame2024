@@ -48,4 +48,22 @@ ________________________________________
 <h1>DEV log 1</h1>
 	
  
- 	Ég birjaði að búa til hreifingar 
+ 	Ég birjaði að búa til hreifingar og animation ég notaði (Starter Assets - ThirdPerson) 
+  	sem beinagrind og (Particle Pack) fyrir effects ég fjék animations frá mixamo.com
+   	(Starter Assets - ThirdPerson) er með einfaldan 3d person carector og mindavél
+        ég breiti síðan Render Pipeline í Universal RP ég bjó swo till galdra með raitracing
+	frá mindawél til að miða og skóta göldrum og færði mindavjélina á meðan það er werið 
+ 	að miða til að raitreisið hit ekki pleier lét karecter líka líta í át sem horft er
+  	og færa allan líkama í þá át ef hann er að miða
+
+<h1>bjargir</h1>
+
+ 
+ 	https://www.youtube.com/playlist?list=PLyBYG1JGBcd1E4CigRSDE9YdH8syiDY6-
+
+  	https://www.mixamo.com/#/
+  
+
+  
+
+
