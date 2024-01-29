@@ -61,11 +61,14 @@ ________________________________________
 
  	Ég lenti í vandamáli með að skifta í Universal RP því allar leiðbeiningar sem ég fan
   	voru úreltar því það er búð að færa stilinganar úr edit í window ég lenti líka í smá
-   	vandamáli með suma effectana og skifti um þá
+   	vandamáli með suma effectana og skifti um þá og svo hrundi alt einusini og ekkert 
+    	gat lagað það en sembetur fer þá geri ég mörg backup
 
-<h3>vandamál</h3>
+<h3>áframhald</h3>
 
- 	Ég
+ 	Ég þarf nú að klára hit dashið(dashup) svo þarf ég að búa til malai attackes og role 
+  	og stila animations og effects svo þarf ég að búa til óvini og svo möpuna svog þarf ég
+   	að spana óvini í möpuna
 
 <h1>bjargir</h1>
 
