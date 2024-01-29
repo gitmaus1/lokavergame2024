@@ -66,9 +66,11 @@ ________________________________________
 
 <h3>áframhald</h3>
 
- 	Ég þarf nú að klára hit dashið(dashup) svo þarf ég að búa til malai attackes og role 
-  	og stila animations og effects svo þarf ég að búa til óvini og svo möpuna svog þarf ég
-   	að spana óvini í möpuna
+ 	Ég þarf nú að klára hit dashið(dashup eða dashback) svo þarf ég að búa til malai attackes
+  	og role og stila animations og effects svo þarf ég að búa til óvini og líka ui með mana 
+   	og lífi og svo möpuna svog þarf ég að spana óvini í möpuna svo líka startmeinu save staði
+        loud save
+    	
 
 <h1>bjargir</h1>
 
