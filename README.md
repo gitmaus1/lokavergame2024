@@ -34,12 +34,9 @@ ________________________________________
 	ef þú heldur inni (RT) þá miðar þú og takarnir gera 
  	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4
   	ef þú heldur inni (LT) þá hleipur þú og takarnir gera 
- 	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4
+ 	(A) hopar (B) dash (X) dash(afturáback) (Y) dash(up)
  
-  	the game will be based arund cuntroler and will  use long range spells 
-   	and short range attacks as you use spells your magic debleits til you cant
-        use magic any more you refule magic whith sugsesful
-	malai attacks incuriging you to use long and close range attacks
+  	maila árásir filla mana Spells minka mana
 
 	
  
