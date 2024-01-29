@@ -1,44 +1,49 @@
 # lokavergame2024
 
-<h1>Game Design</h1>
+<h1>leik hönnun</h1>
 ________________________________________
-<h3>Summary</h3>
+<h3>í stutu máli</h3>
 
 	leikur með skemtileg muvement mekenicks long og short range combat
  
-<h3>Gameplay</h3>
+<h3>Spilun</h3>
 
-        explore an ilend using the movement mekenicks and figt enamys 
+	ferðast um eiu og berjast við óvini
  
-<h3>Mindset</h3>
+<h3>hugarfar leiks</h3>
 
-        the game shuld ivoke a sense of adventure and make the player feel powerful
+	þú át að líða eins og karecterin sjé kröftugur og að þú viljir skoða eiuna
+	
 
 
 
 ________________________________________
 
-<h1>Technical</h1>
+<h1>Tæknilect</h1>
 
-<h3>Screens</h3>
+<h3>birjun</h3>
 
-1.	Title Screen
+1.	Opnunarsena
 2.	loud save
 3.	End Credits
 
-<h3>Controls </h3>
+<h3>stórn og  Mechanics</h3>
 
+	þú hreifir karecter með vinstri pina og stórnar mindavél með hinum
+ 	(A) hopar (B) rúlar (X) flót árás (Y) hæg árás 
+	ef þú heldur inni (RT) þá miðar þú og takarnir gera 
+ 	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4
+  	ef þú heldur inni (LT) þá hleipur þú og takarnir gera 
+ 	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4
+ 
   	the game will be based arund cuntroler and will  use long range spells 
    	and short range attacks as you use spells your magic debleits til you cant
         use magic any more you refule magic whith sugsesful
 	malai attacks incuriging you to use long and close range attacks
-	
-
-<h3>Mechanics</h3>
 
 	
  
- 	you can use many abilitys whithute going into a menju to switce petven them 
+ 	
 
 
  
