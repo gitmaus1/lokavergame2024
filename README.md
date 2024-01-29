@@ -54,7 +54,18 @@ ________________________________________
         ég breiti síðan Render Pipeline í Universal RP ég bjó swo till galdra með raitracing
 	frá mindawél til að miða og skóta göldrum og færði mindavjélina á meðan það er werið 
  	að miða til að raitreisið hit ekki pleier lét karecter líka líta í át sem horft er
-  	og færa allan líkama í þá át ef hann er að miða
+  	og færa allan líkama í þá át ef hann er að miða gerði effects fyrir galdra
+   	bjó svo til dash
+
+<h3>vandamál</h3>
+
+ 	Ég lenti í vandamáli með að skifta í Universal RP því allar leiðbeiningar sem ég fan
+  	voru úreltar því það er búð að færa stilinganar úr edit í window ég lenti líka í smá
+   	vandamáli með suma effectana og skifti um þá
+
+<h3>vandamál</h3>
+
+ 	Ég
 
 <h1>bjargir</h1>
 
