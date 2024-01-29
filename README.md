@@ -20,13 +20,13 @@ ________________________________________
 
 <h1>Technical</h1>
 
-Screens
+<h3>Screens</h3>
 
 1.	Title Screen
 2.	loud save
 3.	End Credits
 
-Controls 
+<h3>Controls </h3>
 
   	the game will be based arund cuntroler and will  use long range spells 
    	and short range attacks as you use spells your magic debleits til you cant
@@ -34,7 +34,7 @@ Controls
 	malai attacks incuriging you to use long and close range attacks
 	
 
-Mechanics
+<h3>Mechanics</h3>
 
 	
  
@@ -42,3 +42,10 @@ Mechanics
 
 
  
+________________________________________
+
+
+<h1>DEV log 1</h1>
+	
+ 
+ 	Ég birjaði að búa til hreifingar 
