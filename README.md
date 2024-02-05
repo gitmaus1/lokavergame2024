@@ -77,10 +77,10 @@ ________________________________________
 <h1>DEV log 1</h1>
 
  	Ég er búin með öll dasin ég hæti líla við dasback notaði í staðin flout(karecter svífur)
-  	(A) hopar (B) dash (X) flout(karecter svífur) (Y) dash(up) er alt búið
-   	er búin að búa til óvin sem eltir carecter og gerir árás og getur dáið
-    	(A) hopar (B) rúlar (X) flót árás(lemja) (Y) hæg árás(sparka) er alt búið
-     	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4 er alt búið og allar árásir get skaðað óvin
+ 	(A) hopar (B) dash (X) flout(karecter svífur) (Y) dash(up) er alt búið
+ 	er búin að búa til óvin sem eltir carecter og gerir árás og getur dáið
+ 	(A) hopar (B) rúlar (X) flót árás(lemja) (Y) hæg árás(sparka) er alt búið
+ 	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4 er alt búið og allar árásir get skaðað óvin
       	
 
  	
