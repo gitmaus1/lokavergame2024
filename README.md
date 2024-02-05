@@ -88,7 +88,7 @@ ________________________________________
 
 <h3>vandamál</h3>
 
- 	Ég lenti í vandamálum með að skaða óvin með einum galdri því han er ekki reitreisaður
+ 	Ég lenti í vandamálum með að skaða óvin með einum galdri því hann er ekki reitreisaður
 
 <h3>áframhald</h3>
 
