@@ -89,6 +89,7 @@ ________________________________________
 <h3>vandamál</h3>
 
  	Ég lenti í vandamálum með að skaða óvin með einum galdri því hann er ekki reitreisaður
+  	svo voru smá vandamál með að refrensa script frá öðru scripti
 
 <h3>áframhald</h3>
 
