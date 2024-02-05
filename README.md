@@ -74,6 +74,18 @@ ________________________________________
         loud save
     	
 
+<h1>DEV log 1</h1>
+
+ 	Ég
+
+<h3>vandamál</h3>
+
+ 	Ég
+
+<h3>áframhald</h3>
+
+ 	Ég
+
 <h1>bjargir</h1>
 
  
