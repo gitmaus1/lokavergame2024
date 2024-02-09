@@ -79,6 +79,7 @@ ________________________________________
  	Ég er búin með öll dasin ég hæti líla við dasback notaði í staðin flout(karecter svífur)
  	(A) hopar (B) dash (X) flout(karecter svífur) (Y) dash(up) er alt búið
  	er búin að búa til óvin sem eltir carecter og gerir árás og getur dáið
+   	óvinyr filgir líka sínum eigin waypoint þegar hann er ekki í bardaga
  	(A) hopar (B) rúlar (X) flót árás(lemja) (Y) hæg árás(sparka) er alt búið
  	(A) Spell1 (B) Spell2 (X) Spell3 (Y) Spell4 er alt búið og allar árásir get skaðað óvin
  	óvina model 
@@ -91,8 +92,9 @@ ________________________________________
 
 <h3>vandamál</h3>
 
- 	Ég lenti í vandamálum með að skaða óvin með einum galdri því hann er ekki reitreisaður
+ 	Ég lenti í vandamálum með að skaða óvin með einum galdri því galdurin er ekki reitreisaður
   	svo voru smá vandamál með að refrensa script frá öðru scripti
+   	svog lenti ég í vandamálun með að fá óvini til að elta sín eigin waypoint   
 
 <h3>áframhald</h3>
 
