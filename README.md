@@ -85,6 +85,8 @@ ________________________________________
  	óvina model 
   
  	https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
+
+  	
       	
 
  	
@@ -95,12 +97,15 @@ ________________________________________
  	Ég lenti í vandamálum með að skaða óvin með einum galdri því galdurin er ekki reitreisaður
   	svo voru smá vandamál með að refrensa script frá öðru scripti
    	svog lenti ég í vandamálun með að fá óvini til að elta sín eigin waypoint   
+       	lenti í vandamáli með urp þegar ég var að setja in asets fyrir umkverfi
+       	https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
 
 <h3>áframhald</h3>
 
  	Ég
 
 <h1>bjargir</h1>
+
 
  
  	https://www.youtube.com/playlist?list=PLyBYG1JGBcd1E4CigRSDE9YdH8syiDY6-
@@ -114,6 +119,8 @@ ________________________________________
    	https://www.youtube.com/watch?v=E6bac9YP6Jc
   
    	https://www.youtube.com/watch?v=KhvokgokrQE
+
+   	https://www.youtube.com/playlist?list=PLYvjPIZvaz-rQCbCGVTGQatGywnmmkNrV
   
 
 
