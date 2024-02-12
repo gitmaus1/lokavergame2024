@@ -97,8 +97,8 @@ ________________________________________
  	Ég lenti í vandamálum með að skaða óvin með einum galdri því galdurin er ekki reitreisaður
   	svo voru smá vandamál með að refrensa script frá öðru scripti
    	svog lenti ég í vandamálun með að fá óvini til að elta sín eigin waypoint   
-       	lenti í vandamáli með urp þegar ég var að setja in asets fyrir umkverfi
-       	https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+ 	lenti í vandamáli með urp þegar ég var að setja in asets fyrir umkverfi
+ 	https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
 
 <h3>áframhald</h3>
 
