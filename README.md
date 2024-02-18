@@ -86,6 +86,8 @@ ________________________________________
   
  	https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
 
+   	eijan og van tilbúið
+
   	
       	
 
@@ -99,6 +101,7 @@ ________________________________________
    	svog lenti ég í vandamálun með að fá óvini til að elta sín eigin waypoint   
  	lenti í vandamáli með urp þegar ég var að setja in asets fyrir umkverfi
  	https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+ 	vandamál með minavjél að kipast til
 
 <h3>áframhald</h3>
 
