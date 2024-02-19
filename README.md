@@ -86,7 +86,7 @@ ________________________________________
   
  	https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
 
-   	eijan og van tilbúið
+   	eijan og vatn tilbúið
 
   	
       	
@@ -105,7 +105,7 @@ ________________________________________
 
 <h3>áframhald</h3>
 
- 	Ég
+ 	Ég þarf að klára Boss dregan og bæta við hlóði
 
 <h1>bjargir</h1>
 
