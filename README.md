@@ -4,7 +4,7 @@
 ________________________________________
 <h3>í stutu máli</h3>
 
-	leikur með skemtileg muvement mekenicks long og short range combat
+	leikur með skemtileg muvement mekenicks long og short range combat í þriðju persónu
  
 <h3>Spilun</h3>
 
