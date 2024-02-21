@@ -87,6 +87,7 @@ ________________________________________
  	https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
 
    	eijan og vatn tilbúið
+   	hæti við að hafa save/loud út af því að leikur er ekki nógu lángur til að það sé virði þess 	
 
   	
       	
