@@ -88,6 +88,7 @@ ________________________________________
 
    	eijan og vatn tilbúið
    	hæti við að hafa save/loud út af því að leikur er ekki nógu lángur til að það sé virði þess 	
+   	tapar ef þú ferð í vatn
 
   	
       	
