@@ -8,7 +8,7 @@ ________________________________________
  
 <h3>Spilun</h3>
 
-	ferðast um eiu og berjast við óvini
+	ferðast um eiu og berjast við óvini og reinir að fina bát til að komast af eijuni
  
 <h3>hugarfar leiks</h3>
 
