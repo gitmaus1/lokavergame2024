@@ -109,6 +109,11 @@ ________________________________________
 
  	Ég þarf að klára Boss dregan og bæta við hlóði
 
+
+  <h1>DEV log 3</h1>
+
+ 	Ég er búin með alla drega og hlóð komið búin að klára meinu í birjun allt búið
+
 <h1>bjargir</h1>
 
 
